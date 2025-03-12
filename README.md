@@ -5,6 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankam1819" alt="ankam1819" /></a> </p>
 
+- 🌱 I’m currently pursuing **Integrated MTECH at VIT-AP University**
+
+- 👨‍💻 Portfolio [https://ankam1819.github.io/MyPortfolio/](https://ankam1819.github.io/MyPortfolio/)
+
+- 📫 How to reach me **ankamdattadri1@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ankamsrinivas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankamsrinivas" height="30" width="40" /></a>
